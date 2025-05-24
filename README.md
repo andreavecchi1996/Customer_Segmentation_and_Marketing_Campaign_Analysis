@@ -14,3 +14,6 @@ RFM (Recency, Frequency, Monetary) analysis for segmentation
 Visualisation of insights through dynamic Power BI dashboards
 
 source: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign 
+
+
+prova prova editing ciaociaociao
